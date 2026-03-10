@@ -638,7 +638,7 @@ function ContactsSection() {
       icon: <TelegramLogo className="w-12 h-12 text-blue-400 group-hover:text-blue-300 transition-colors duration-300" />,
       title: "Telegram Kanal",
       value: "@Ilyasov",
-      link: "https://t.me/someons_vlog"
+      link: "https://t.me/cyberdevuz"
     }
   ];
 
